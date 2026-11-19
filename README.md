@@ -45,7 +45,7 @@
   <ul>
     <li><a href="News/2026-11-20/501627-embassy-issues-notice-to-sri-lankans-in-bahrain.md"><b>බහරේනයේ සිටින ශ්‍රී ලාංකිකයින්ට තානාපති කාර්යාලයෙන් දැනුම්දීමක්</b></a> <code>20 November 2026</code></li>
     <li><a href="News/2026-11-19/501626-gmoa-prepares-to-take-industrial-action.md"><b>GMOA වෘත්තීය ක්‍රියාමාර්ග ගැනීමේ සූදානමක්</b></a> <code>19 November 2026</code></li>
-    <li><a href="News/2026-11-19/501625-20-executive-officer-services-to-go-on-token-strike-tomorrow.md"><b>විධායක නිලධාරී සේවා 20 ක් හෙට සංකේත වැඩවර්ජනයක</b></a> <code>19 November 2026</code></li>
+    <li><a href="News/2026-11-19/501625-20-executive-officer-services-to-go-on-symbolic-strike-tomor.md"><b>විධායක නිලධාරී සේවා 20 ක් හෙට සංකේත වැඩවර්ජනයක</b></a> <code>19 November 2026</code></li>
     <li><a href="News/2026-11-19/501620-a-consignment-of-drugs-that-was-about-to-be-shipped-to-the-c.md"><b>මුහුදු මාර්ගයෙන් මෙරටට එවීමට සූදානම්ව තිබූ මත්ද්‍රව්‍ය තොගයක් චෙන්නායිහිදී අත්අඩංගුවට</b></a> <code>19 November 2026</code></li>
     <li><a href="News/2026-11-19/501400-mother-father-and-two-children-of-the-same-family-die-in-a-f.md"><b>කඩුවෙල නගරයේ විදුලි උපකරණ අලෙවිසැලක ගින්නෙන් එකම පවුලේ මව, පියා සහ දරුවන් දෙදෙනා මරුට</b></a> <code>19 November 2026</code></li>
   </ul>
