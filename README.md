@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-20/501629-drivers-license-revoked-for-life-for-drunk-driving-of-sltb-b.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795113785_411030_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-20/501635-second-reading-vote-on-2027-budget-today.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795136979_6940342_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>බීමත්ව ලංගම බස් රථයක් පැදවූ රියැදුරුගේ බලපත්‍රය ජීවිතාන්තය දක්වා අවලංගු කෙරේ</h2>
-<p><i>drivers license revoked for life for drunk driving of sltb bus</i></p>
+<h2>2027 අයවැයේ දෙවැනිවර කියවීමේ ඡන්ද විමසීම අද</h2>
+<p><i>second reading vote on 2027 budget today</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-20&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-20/501629-drivers-license-revoked-for-life-for-drunk-driving-of-sltb-b.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-20/501635-second-reading-vote-on-2027-budget-today.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
+    <li><a href="News/2026-11-20/501633-rain-expected-in-several-places-in-five-provinces-this-eveni.md"><b>පළාත් පහක ස්ථාන කිහිපයකට අද සවස් කාලයේ වැසි</b></a> <code>20 November 2026</code></li>
+    <li><a href="News/2026-11-20/501629-drivers-license-revoked-for-life-for-drunk-driving-of-sltb-b.md"><b>බීමත්ව ලංගම බස් රථයක් පැදවූ රියැදුරුගේ බලපත්‍රය ජීවිතාන්තය දක්වා අවලංගු කෙරේ</b></a> <code>20 November 2026</code></li>
     <li><a href="News/2026-11-20/501627-embassy-issues-notice-to-sri-lankans-in-bahrain.md"><b>බහරේනයේ සිටින ශ්‍රී ලාංකිකයින්ට තානාපති කාර්යාලයෙන් දැනුම්දීමක්</b></a> <code>20 November 2026</code></li>
     <li><a href="News/2026-11-19/501626-gmoa-prepares-to-take-industrial-action.md"><b>GMOA වෘත්තීය ක්‍රියාමාර්ග ගැනීමේ සූදානමක්</b></a> <code>19 November 2026</code></li>
-    <li><a href="News/2026-11-19/501625-20-executive-officer-services-to-go-on-symbolic-strike-tomor.md"><b>විධායක නිලධාරී සේවා 20 ක් හෙට සංකේත වැඩවර්ජනයක</b></a> <code>19 November 2026</code></li>
-    <li><a href="News/2026-11-19/501620-a-consignment-of-drugs-that-was-about-to-be-shipped-to-the-c.md"><b>මුහුදු මාර්ගයෙන් මෙරටට එවීමට සූදානම්ව තිබූ මත්ද්‍රව්‍ය තොගයක් චෙන්නායිහිදී අත්අඩංගුවට</b></a> <code>19 November 2026</code></li>
-    <li><a href="News/2026-11-19/501400-mother-father-and-two-children-of-the-same-family-die-in-a-f.md"><b>කඩුවෙල නගරයේ විදුලි උපකරණ අලෙවිසැලක ගින්නෙන් එකම පවුලේ මව, පියා සහ දරුවන් දෙදෙනා මරුට</b></a> <code>19 November 2026</code></li>
+    <li><a href="News/2026-11-19/501397-air-quality-in-7-areas-including-colombo-at-adverse-levels.md"><b>කොළඹ ඇතුළු ප්‍රදේශ 7ක වායු ගුණාත්මකභාවය අහිතකර මට්ටමක</b></a> <code>19 November 2026</code></li>
   </ul>
 </details>
 
