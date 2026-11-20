@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-20/501795-this-years-2-millionth-tourist-arrives-in-the-island-today.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795164255_2145977_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-20/501879-colombo-bound-lane-at-d-s-senanayake-intersection-in-borella.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795192579_4068049_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>මෙම වසරේ 20 ලක්ෂ වැනි සංචාරකයා අද දිවයිනට එයි</h2>
-<p><i>this years 2 millionth tourist arrives in the island today</i></p>
+<h2>බොරැල්ල ඩී. එස්. සේනානායක මංසන්ධියේ කොළඹ දෙසට මංතීරුව අද රාත්‍රියේ සිට තාවකාලිකව වැසේ</h2>
+<p><i>colombo bound lane at d s senanayake intersection in borella to be temporarily closed from tonight</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-20&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-20/501795-this-years-2-millionth-tourist-arrives-in-the-island-today.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-20/501879-colombo-bound-lane-at-d-s-senanayake-intersection-in-borella.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-20/501779-central-bank-governor-says-inflation-in-the-country-could-ri.md"><b>මෙරට උද්ධමනය 9%ක් දක්වා ඉහළ යා හැකි බව මහ බැංකු අධිපති කියයි</b></a> <code>20 November 2026</code></li>
-    <li><a href="News/2026-11-20/501772-mp-chamara-sampath-and-former-private-secretary-remanded-unt.md"><b>පා.ම. චාමර සම්පත් සහ හිටපු පෞද්ගලික ලේකම් ලබන 27 දක්වා යළි රිමාන්ඩ්</b></a> <code>20 November 2026</code></li>
-    <li><a href="News/2026-11-20/501768-36-students-at-a-maskeliya-school-hospitalized-due-to-breath.md"><b>මස්කෙළිය පාසලක සිසුන් 36කට හුස්ම ගැනීමේ අපහසුතා ඇතිවීමෙන් රෝහල්ගත කෙරේ</b></a> <code>20 November 2026</code></li>
-    <li><a href="News/2026-11-20/501751-the-golden-canopy-of-the-renovated-temple-of-the-tooth-relic.md"><b>ප්‍රතිසංස්කරණය කළ ශ්‍රී දළදා මාලිගාවේ රන් වියන යළි නිරාවරණය කෙරේ</b></a> <code>20 November 2026</code></li>
-    <li><a href="News/2026-11-20/501635-second-reading-vote-on-2027-budget-today.md"><b>2027 අයවැයේ දෙවැනිවර කියවීමේ ඡන්ද විමසීම අද</b></a> <code>20 November 2026</code></li>
+    <li><a href="News/2026-11-20/501878-hiru-cia-exposes-gem-smuggling-operation-destroying-kantale-.md"><b>ප්‍රතිසංස්කරණ මුවාවෙන් කන්තලේ රක්ෂිතය වනසන මැණික් ඉල්ලම් ජාවාරමක් ගැන හිරු CIA හෙළි කරයි</b></a> <code>20 November 2026</code></li>
+    <li><a href="News/2026-11-20/501875-voyager-1-carrying-ayubowan-in-sinhala-makes-history-in-inte.md"><b>සිංහලෙන් 'ආයුබෝවන්' රැගත් 'වොයේජර් 1' යානය අන්තර්තාරකා අවකාශයේ ඉතිහාසය අලුත් කරයි</b></a> <code>20 November 2026</code></li>
+    <li><a href="News/2026-11-20/501872-chinese-acupuncturist-fined-over-rs-4-7-million-for-defraudi.md"><b>මිලියන 47.6ක් වංචා කළ චීන කටු වෛද්‍යවරයාට රුපියල් ලක්ෂ 47කට අධික දඩයක්: ලක්ෂ 08ක වන්දියක් ගෙවන්නත් නියෝග</b></a> <code>20 November 2026</code></li>
+    <li><a href="News/2026-11-20/501869-signs-that-eating-bundi-is-also-a-problem-13-out-of-16-sampl.md"><b>බූන්දි කෑමත් ප්‍රශ්නයක් වන ලකුණු: සාම්පල 16න් 13ක්ම අවුල්</b></a> <code>20 November 2026</code></li>
+    <li><a href="News/2026-11-20/501857-second-reading-of-the-2027-budget-passed-157-in-favor-60-aga.md"><b>2027 අයවැය දෙවැනිවර කියවීම සම්මතයි : පක්ෂව 157 - විපක්ෂව 60</b></a> <code>20 November 2026</code></li>
   </ul>
 </details>
 
