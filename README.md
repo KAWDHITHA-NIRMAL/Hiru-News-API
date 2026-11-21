@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-21/501887-the-ilangai-tamil-arasu-party-votes-against-the-budget-for-t.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795199882_9012269_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-21/501930-two-arrested-for-defrauding-over-2500-people-of-nearly-rs-4-.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795232869_3467216_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ජාතික ජන බලවේග ආණ්ඩුව බලයට පත්වීමෙන් පසු ඉලංගෙයි තමිල් අරසු පක්ෂය පළමුවරට අයවැයට විරුද්ධව ඡන්දය දෙයි</h2>
-<p><i>the ilangai tamil arasu party votes against the budget for the first time since the national peoples power government came to power</i></p>
+<h2>වගා ව්‍යාපෘති මුවාවෙන් පුද්ගලයින් 2,500කට අධික පිරිසකගෙන් රුපියල් බිලියන 4කට ආසන්න මුදලක් වංචා කළ දෙදෙනෙකු අත්අඩංගුවට</h2>
+<p><i>two arrested for defrauding over 2500 people of nearly rs 4 billion under the guise of cultivation projects</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-21&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-21/501887-the-ilangai-tamil-arasu-party-votes-against-the-budget-for-t.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-21/501930-two-arrested-for-defrauding-over-2500-people-of-nearly-rs-4-.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-20/501879-colombo-bound-lane-at-d-s-senanayake-intersection-in-borella.md"><b>බොරැල්ල ඩී. එස්. සේනානායක මංසන්ධියේ කොළඹ දෙසට මංතීරුව අද රාත්‍රියේ සිට තාවකාලිකව වැසේ</b></a> <code>20 November 2026</code></li>
-    <li><a href="News/2026-11-20/501878-hiru-cia-exposes-gem-smuggling-operation-destroying-kantale-.md"><b>ප්‍රතිසංස්කරණ මුවාවෙන් කන්තලේ රක්ෂිතය වනසන මැණික් ඉල්ලම් ජාවාරමක් ගැන හිරු CIA හෙළි කරයි</b></a> <code>20 November 2026</code></li>
-    <li><a href="News/2026-11-20/501875-voyager-1-carrying-ayubowan-in-sinhala-makes-history-in-inte.md"><b>සිංහලෙන් 'ආයුබෝවන්' රැගත් 'වොයේජර් 1' යානය අන්තර්තාරකා අවකාශයේ ඉතිහාසය අලුත් කරයි</b></a> <code>20 November 2026</code></li>
-    <li><a href="News/2026-11-20/501872-chinese-acupuncturist-fined-over-rs-4-7-million-for-defraudi.md"><b>මිලියන 47.6ක් වංචා කළ චීන කටු වෛද්‍යවරයාට රුපියල් ලක්ෂ 47කට අධික දඩයක්: ලක්ෂ 08ක වන්දියක් ගෙවන්නත් නියෝග</b></a> <code>20 November 2026</code></li>
-    <li><a href="News/2026-11-20/501857-second-reading-of-the-2027-budget-passed-157-in-favor-60-aga.md"><b>2027 අයවැය දෙවැනිවර කියවීම සම්මතයි : පක්ෂව 157 - විපක්ෂව 60</b></a> <code>20 November 2026</code></li>
+    <li><a href="News/2026-11-21/501929-bodies-of-four-members-of-the-same-family-who-died-in-the-ka.md"><b>කඩුවෙල ගින්නෙන් මියගිය එකම පවුලේ සිව්දෙනාගේ දේහයන් නිවසට : අවසන් කටයුතු අද</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/501923-thailands-deputy-prime-minister-arrives-in-the-island.md"><b>තායිලන්තයේ නියෝජ්‍ය අග්‍රාමාත්‍යවරයා දිවයිනට</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/501921-preliminary-report-of-the-national-plan-seeking-solutions-to.md"><b>වන අලි - මිනිස් ගැටුමට විසඳුම් සොයන ජාතික සැලැස්මේ මූලික වාර්තාව දෙසැම්බර් 20ට පෙර</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/501913-tax-office-assessor-sentenced-to-16-years-in-prison-for-acce.md"><b>අල්ලස් ගත් බදු කන්තෝරුවේ තක්සේරුකරුවෙකුට වසර 16ක් සිරදඩුවම් : වසර 7කට ප්‍රජා අයිතියත් අහිමියි</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/501906-budget-committee-debate-begins-today.md"><b>අයවැය කාරක සභා විවාදය අද ඇරඹේ</b></a> <code>21 November 2026</code></li>
   </ul>
 </details>
 
