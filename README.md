@@ -46,7 +46,7 @@
     <li><a href="News/2026-11-21/502078-diesel-leak-from-a-blumenthal-pipe-coming-from-the-port-stai.md"><b>වරායෙන් එන බ්ලුමැන්ඩල් නලයක ඩීසල් කාන්දුවක්: මෝදර වෙරළෙත් පැල්ලම්</b></a> <code>21 November 2026</code></li>
     <li><a href="News/2026-11-21/502075-four-members-of-the-same-family-who-lost-their-lives-in-the-.md"><b>කඩුවෙල ගින්නෙන් දිවි අහිමි වූ එකම පවුලේ සිව් දෙනා අවසන් ගමන් යයි</b></a> <code>21 November 2026</code></li>
     <li><a href="News/2026-11-21/502065-the-third-salary-increase-for-all-public-servants-and-teache.md"><b>''සියලුම රාජ්‍ය සේවකයන්ගේ සහ ගුරුවරුන්ගේ තුන්වන වැටුප් වැඩිවීම ලබන වසරේ ජනවාරි මාසයේදී ලබා දෙනවා'' - හරිනි අමරසූරිය-</b></a> <code>21 November 2026</code></li>
-    <li><a href="News/2026-11-21/502056-not-a-single-cent-has-been-allocated-from-the-budget-for-the.md"><b>ජනපතිගේ පවුලේ අයට අයවැයෙන් සතයක්වත් වෙන් කරලා නෑ - ඇමති ආනන්ද</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/502056-not-a-single-penny-has-been-allocated-from-the-budget-for-th.md"><b>ජනපතිගේ පවුලේ අයට අයවැයෙන් සතයක්වත් වෙන් කරලා නෑ - ඇමති ආනන්ද</b></a> <code>21 November 2026</code></li>
     <li><a href="News/2026-11-21/501941-supreme-court-approves-the-organized-crime-prevention-bill.md"><b>සංවිධානාත්මක අපරාධ වැළැක්වීමේ පනත් කෙටුම්පතට ශ්‍රේෂ්ඨාධිකරණයේ අනුමැතිය</b></a> <code>21 November 2026</code></li>
   </ul>
 </details>
