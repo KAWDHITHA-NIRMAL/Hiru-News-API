@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-21/501930-two-arrested-for-defrauding-over-2500-people-of-nearly-rs-4-.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795232869_3467216_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-21/502056-not-a-single-penny-has-been-allocated-from-the-budget-for-th.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795262214_6200046_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>වගා ව්‍යාපෘති මුවාවෙන් පුද්ගලයින් 2,500කට අධික පිරිසකගෙන් රුපියල් බිලියන 4කට ආසන්න මුදලක් වංචා කළ දෙදෙනෙකු අත්අඩංගුවට</h2>
-<p><i>two arrested for defrauding over 2500 people of nearly rs 4 billion under the guise of cultivation projects</i></p>
+<h2>ජනපතිගේ පවුලේ අයට අයවැයෙන් සතයක්වත් වෙන් කරලා නෑ - ඇමති ආනන්ද</h2>
+<p><i>not a single penny has been allocated from the budget for the presidents family minister ananda</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-21&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-21/501930-two-arrested-for-defrauding-over-2500-people-of-nearly-rs-4-.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-21/502056-not-a-single-penny-has-been-allocated-from-the-budget-for-th.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-21/501929-bodies-of-four-members-of-the-same-family-who-died-in-the-ka.md"><b>කඩුවෙල ගින්නෙන් මියගිය එකම පවුලේ සිව්දෙනාගේ දේහයන් නිවසට : අවසන් කටයුතු අද</b></a> <code>21 November 2026</code></li>
-    <li><a href="News/2026-11-21/501923-thailands-deputy-prime-minister-arrives-in-the-island.md"><b>තායිලන්තයේ නියෝජ්‍ය අග්‍රාමාත්‍යවරයා දිවයිනට</b></a> <code>21 November 2026</code></li>
-    <li><a href="News/2026-11-21/501921-preliminary-report-of-the-national-plan-seeking-solutions-to.md"><b>වන අලි - මිනිස් ගැටුමට විසඳුම් සොයන ජාතික සැලැස්මේ මූලික වාර්තාව දෙසැම්බර් 20ට පෙර</b></a> <code>21 November 2026</code></li>
-    <li><a href="News/2026-11-21/501913-tax-office-assessor-sentenced-to-16-years-in-prison-for-acce.md"><b>අල්ලස් ගත් බදු කන්තෝරුවේ තක්සේරුකරුවෙකුට වසර 16ක් සිරදඩුවම් : වසර 7කට ප්‍රජා අයිතියත් අහිමියි</b></a> <code>21 November 2026</code></li>
-    <li><a href="News/2026-11-21/501906-budget-committee-debate-begins-today.md"><b>අයවැය කාරක සභා විවාදය අද ඇරඹේ</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/502053-do-not-introduce-repressive-bills-to-hide-the-governments-in.md"><b>රජයේ නොහැකියාව, අකාර්යක්ෂමතාම සහ අදක්ෂකම සඟවා ගන්න මර්දනකාරී පනත් ගේන්න එපා - විපක්ෂ නායක සජිත්</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/502052-the-government-has-not-fallen-yet-even-though-it-was-said-it.md"><b>"සතියෙන් වැටෙනවා කිව්වට ආණ්ඩුව තවම වැටුණේ නෑ" - මාලිමා මන්ත්‍රී පද්මසිරි</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/502051-7-year-old-child-dies-after-wall-collapses.md"><b>තාප්පයක් කඩා වැටීමෙන් 07 හැවිරිදි දරුවෙකු ජීවිතක්ෂයට</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/502047-no-politician-in-the-government-has-been-accused-of-bribery-.md"><b>"ආණ්ඩුවේ කිසිම දේශපාලකයෙක් අල්ලසට, දූෂණයට චෝදනා ලබලා නෑ" - මධ්‍යම පළාත් ආණ්ඩුකාර</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/501941-supreme-court-approves-the-organized-crime-prevention-bill.md"><b>සංවිධානාත්මක අපරාධ වැළැක්වීමේ පනත් කෙටුම්පතට ශ්‍රේෂ්ඨාධිකරණයේ අනුමැතිය</b></a> <code>21 November 2026</code></li>
   </ul>
 </details>
 
