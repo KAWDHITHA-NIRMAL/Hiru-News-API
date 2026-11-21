@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-21/502056-not-a-single-penny-has-been-allocated-from-the-budget-for-th.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795262214_6200046_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-21/502087-national-protest-day-tomorrow-against-the-budget.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795272987_460889_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ජනපතිගේ පවුලේ අයට අයවැයෙන් සතයක්වත් වෙන් කරලා නෑ - ඇමති ආනන්ද</h2>
-<p><i>not a single penny has been allocated from the budget for the presidents family minister ananda</i></p>
+<h2>අයවැයට විරෝධය පළ කරමින් අනිද්දා ජාතික විරෝධතා දිනයක්</h2>
+<p><i>national protest day tomorrow against the budget</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-21&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-21/502056-not-a-single-penny-has-been-allocated-from-the-budget-for-th.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-21/502087-national-protest-day-tomorrow-against-the-budget.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,10 +43,10 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-21/502053-do-not-introduce-repressive-bills-to-hide-the-governments-in.md"><b>රජයේ නොහැකියාව, අකාර්යක්ෂමතාම සහ අදක්ෂකම සඟවා ගන්න මර්දනකාරී පනත් ගේන්න එපා - විපක්ෂ නායක සජිත්</b></a> <code>21 November 2026</code></li>
-    <li><a href="News/2026-11-21/502052-the-government-has-not-fallen-yet-even-though-it-was-said-it.md"><b>"සතියෙන් වැටෙනවා කිව්වට ආණ්ඩුව තවම වැටුණේ නෑ" - මාලිමා මන්ත්‍රී පද්මසිරි</b></a> <code>21 November 2026</code></li>
-    <li><a href="News/2026-11-21/502051-7-year-old-child-dies-after-wall-collapses.md"><b>තාප්පයක් කඩා වැටීමෙන් 07 හැවිරිදි දරුවෙකු ජීවිතක්ෂයට</b></a> <code>21 November 2026</code></li>
-    <li><a href="News/2026-11-21/502047-no-politician-in-the-government-has-been-accused-of-bribery-.md"><b>"ආණ්ඩුවේ කිසිම දේශපාලකයෙක් අල්ලසට, දූෂණයට චෝදනා ලබලා නෑ" - මධ්‍යම පළාත් ආණ්ඩුකාර</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/502078-diesel-leak-from-a-blumenthal-pipe-coming-from-the-port-stai.md"><b>වරායෙන් එන බ්ලුමැන්ඩල් නලයක ඩීසල් කාන්දුවක්: මෝදර වෙරළෙත් පැල්ලම්</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/502075-four-members-of-the-same-family-who-lost-their-lives-in-the-.md"><b>කඩුවෙල ගින්නෙන් දිවි අහිමි වූ එකම පවුලේ සිව් දෙනා අවසන් ගමන් යයි</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/502065-the-third-salary-increase-for-all-public-servants-and-teache.md"><b>''සියලුම රාජ්‍ය සේවකයන්ගේ සහ ගුරුවරුන්ගේ තුන්වන වැටුප් වැඩිවීම ලබන වසරේ ජනවාරි මාසයේදී ලබා දෙනවා'' - හරිනි අමරසූරිය-</b></a> <code>21 November 2026</code></li>
+    <li><a href="News/2026-11-21/502056-not-a-single-cent-has-been-allocated-from-the-budget-for-the.md"><b>ජනපතිගේ පවුලේ අයට අයවැයෙන් සතයක්වත් වෙන් කරලා නෑ - ඇමති ආනන්ද</b></a> <code>21 November 2026</code></li>
     <li><a href="News/2026-11-21/501941-supreme-court-approves-the-organized-crime-prevention-bill.md"><b>සංවිධානාත්මක අපරාධ වැළැක්වීමේ පනත් කෙටුම්පතට ශ්‍රේෂ්ඨාධිකරණයේ අනුමැතිය</b></a> <code>21 November 2026</code></li>
   </ul>
 </details>
