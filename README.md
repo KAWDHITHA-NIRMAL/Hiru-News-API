@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-22/502181-army-wins-overall-title-in-defence-services-rowing.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795328600_1747235_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-22/502275-a-comprehensive-national-mechanism-to-prevent-drownings-depu.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795355769_8882022_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ආරක්‍ෂක සේවා ඔරු පැදීමේ සමස්ත ශූරතාව යුද හමුදාවට</h2>
-<p><i>army wins overall title in defence services rowing</i></p>
+<h2>දියේ ගිලීම් වැළැක්වීමට පුළුල් ජාතික යාන්ත්‍රණයක් - ආරක්ෂක නියෝජ්‍ය අමාත්‍ය</h2>
+<p><i>a comprehensive national mechanism to prevent drownings deputy minister of defense</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-22&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-22/502181-army-wins-overall-title-in-defence-services-rowing.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-22/502275-a-comprehensive-national-mechanism-to-prevent-drownings-depu.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-22/502178-three-people-die-in-road-accidents-in-three-areas-of-the-isl.md"><b>දිවයිනේ ප්‍රදේශ තුනක සිදුවූ රිය අනතුරුවලින් තිදෙනෙක් ජීවිතක්ෂයට</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502175-cyber-attack-on-the-official-website-of-the-department-of-mo.md"><b>මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට සයිබර් ප්‍රහාරයක් - කාර්යාලීය සේවා හෙට සිට සාමාන්‍ය පරිදි</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502156-homagama-council-song-goes-missing-after-going-for-tea-polic.md"><b>තේ බොන්න ගිය ටිකට හෝමාගම සභා ගීතය අතුරුදන්: පොලිසියේ පිහිට පතයි</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502155-two-suspects-arrested-in-fake-vehicle-manufacturing-racket.md"><b>ව්‍යාජ ලෙස වාහන සකස් කිරීමේ ජාවාරමක් – සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502122-transfers-to-6-digs.md"><b>නියෝජ්‍ය පොලිස්පතිවරුන් 06 දෙනෙකුට ස්ථාන මාරුවීම්</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-22/502274-dmt-website-to-take-three-days-to-recover-from-cyberattack.md"><b>සයිබර් ප්‍රහාරයට ලක්වූ DMT වෙබ් අඩවිය යථා තත්ත්වයට පත්වීමට දින තුනක් ගතවන ලකුණු</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-22/502272-body-of-missing-student-found-in-benthara-sea.md"><b>බෙන්තර මුහුදේ අතුරුදන් වූ සිසුවාගේ මළ සිරුර හමුවෙයි</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-22/502269-we-will-not-in-any-way-help-anyone-commit-crimes-or-wrongdoi.md"><b>පොලිසියේ කියලා කිසිම කෙනෙකුට අපරාධ කරන්නවත් වැරදිවැඩ කරන්නවත් අපි කිසිම ආකාරයෙන් අත්උදව් දෙන්නේ නෑ - පොලිස්පති</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-22/502267-we-gave-one-billion-from-the-budget-for-the-fish-app-we-crea.md"><b>''අපි හදපු මාළු ඇප් එකට අයවැයෙන් බිලියනයක් දුන්නා'' - නි. ඇමති රත්න ගමගේ</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-22/502207-a-lunchtime-protest-in-front-of-government-offices-tomorrow-.md"><b>රජයේ කාර්යාල ඉදිරිපිට හෙට කෑම පැයේ විරෝධතාවක් : විදුහල්පතිවරුත් කලු ඇදුමින් පාසලට</b></a> <code>22 November 2026</code></li>
   </ul>
 </details>
 
