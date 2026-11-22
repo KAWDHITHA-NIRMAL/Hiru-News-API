@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-22/502275-a-comprehensive-national-mechanism-to-prevent-drownings-depu.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795355769_8882022_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-22/502308-protests-in-many-areas-against-the-psta-act.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795372058_8904411_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>දියේ ගිලීම් වැළැක්වීමට පුළුල් ජාතික යාන්ත්‍රණයක් - ආරක්ෂක නියෝජ්‍ය අමාත්‍ය</h2>
-<p><i>a comprehensive national mechanism to prevent drownings deputy minister of defense</i></p>
+<h2>PSTA පනතට එරෙහිව ප්‍රදේශ රැසක විරෝධතා</h2>
+<p><i>protests in many areas against the psta act</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-22&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-22/502275-a-comprehensive-national-mechanism-to-prevent-drownings-depu.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-22/502308-protests-in-many-areas-against-the-psta-act.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,10 +43,10 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-22/502274-dmt-website-to-take-three-days-to-recover-from-cyberattack.md"><b>සයිබර් ප්‍රහාරයට ලක්වූ DMT වෙබ් අඩවිය යථා තත්ත්වයට පත්වීමට දින තුනක් ගතවන ලකුණු</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502272-body-of-missing-student-found-in-benthara-sea.md"><b>බෙන්තර මුහුදේ අතුරුදන් වූ සිසුවාගේ මළ සිරුර හමුවෙයි</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502269-we-will-not-in-any-way-help-anyone-commit-crimes-or-wrongdoi.md"><b>පොලිසියේ කියලා කිසිම කෙනෙකුට අපරාධ කරන්නවත් වැරදිවැඩ කරන්නවත් අපි කිසිම ආකාරයෙන් අත්උදව් දෙන්නේ නෑ - පොලිස්පති</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502267-we-gave-one-billion-from-the-budget-for-the-fish-app-we-crea.md"><b>''අපි හදපු මාළු ඇප් එකට අයවැයෙන් බිලියනයක් දුන්නා'' - නි. ඇමති රත්න ගමගේ</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-22/502307-two-people-killed-another-injured-after-being-hit-by-night-m.md"><b>ත්‍රිකුණාමලයේදී රාත්‍රී තැපැල් දුම්රියේ ගැටී පුද්ගලයින් දෙදෙනෙක් මරුට: තවත් අයෙකුට තුවාල</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-22/502305-a-discussion-with-slaito-and-thasl-representatives-about-the.md"><b>සංචාරක කර්මාන්තයේ 2027 සංවර්ධන සැලසුම් ගැන SLAITO සහ THASL නියෝජිතයන් සමඟ සාකච්ඡාවක්</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-22/502301-hiru-cia-reveals-gem-smuggling-that-has-split-the-kantale-re.md"><b>කන්තලේ ජලාශය දෙකඩ කළ මැණික් ඉල්ලම් ජාවාරම ගැන හිරු CIA අනාවරණය: කැණීමට අවසරයක් ලබාගෙන නැතැයි වන සංරක්ෂණ නිලධාරීන් කියයි</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-22/502298-sri-lanka-and-thailand-sign-visa-waiver-agreement-for-ordina.md"><b>සාමාන්‍ය විදේශ ගමන් බලපත්‍ර හිමියන්ට වීසා නිදහස් කිරීමේ ගිවිසුමකට ශ්‍රී ලංකාව සහ තායිලන්තය අත්සන් තබයි</b></a> <code>22 November 2026</code></li>
     <li><a href="News/2026-11-22/502207-a-lunchtime-protest-in-front-of-government-offices-tomorrow-.md"><b>රජයේ කාර්යාල ඉදිරිපිට හෙට කෑම පැයේ විරෝධතාවක් : විදුහල්පතිවරුත් කලු ඇදුමින් පාසලට</b></a> <code>22 November 2026</code></li>
   </ul>
 </details>
