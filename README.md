@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-23/502312-rain-in-many-areas-today.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795395000_1813753_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-23/502482-galadari-hotel-to-be-rebranded-as-radisson-blu-hotel-galadar.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795424211_4186342_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>අදත් ප්‍රදේශ රැසකට වැසි</h2>
-<p><i>rain in many areas today</i></p>
+<h2>ගලධාරි හෝටලය Radission Blu Hotel Galadari Colombo ලෙස සන්නාමගත කෙරේ</h2>
+<p><i>galadari hotel to be rebranded as radisson blu hotel galadari colombo</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-23&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-23/502312-rain-in-many-areas-today.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-23/502482-galadari-hotel-to-be-rebranded-as-radisson-blu-hotel-galadar.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-22/502308-protests-in-many-areas-against-the-psta-act.md"><b>PSTA පනතට එරෙහිව ප්‍රදේශ රැසක විරෝධතා</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502307-two-people-killed-another-injured-after-being-hit-by-night-m.md"><b>ත්‍රිකුණාමලයේදී රාත්‍රී තැපැල් දුම්රියේ ගැටී පුද්ගලයින් දෙදෙනෙක් මරුට: තවත් අයෙකුට තුවාල</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502305-a-discussion-with-slaito-and-thasl-representatives-about-the.md"><b>සංචාරක කර්මාන්තයේ 2027 සංවර්ධන සැලසුම් ගැන SLAITO සහ THASL නියෝජිතයන් සමඟ සාකච්ඡාවක්</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502301-hiru-cia-reveals-gem-smuggling-that-has-split-the-kantale-re.md"><b>කන්තලේ ජලාශය දෙකඩ කළ මැණික් ඉල්ලම් ජාවාරම ගැන හිරු CIA අනාවරණය: කැණීමට අවසරයක් ලබාගෙන නැතැයි වන සංරක්ෂණ නිලධාරීන් කියයි</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502175-cyber-attack-on-the-official-website-of-the-department-of-mo.md"><b>මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට සයිබර් ප්‍රහාරයක් - කාර්යාලීය සේවා හෙට සිට සාමාන්‍ය පරිදි</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-23/502465-plans-to-recover-compensation-for-damage-caused-to-the-coast.md"><b>ඩීසල් කාන්දුවෙන් වෙරළ තීරයට සිදුවූ හානියට වන්දි අයකරගැනීමට සැරසේ</b></a> <code>23 November 2026</code></li>
+    <li><a href="News/2026-11-23/502462-pillayans-defamation-case-against-shanakkian-rasamanikkam-ad.md"><b>ෂානක්කියන් රාසමාණික්කම්ට එරෙහි පිල්ලෙයාන්ගේ අපහාස නඩුව ජනවාරි 07 වැනිදාට කල් තැබේ</b></a> <code>23 November 2026</code></li>
+    <li><a href="News/2026-11-23/502460-synthetic-drug-use-on-the-rise-in-sri-lanka-47310-people-arr.md"><b>ශ්‍රී ලංකාව තුළ කෘත්‍රිම මත්ද්‍රව්‍ය උත්තේජක භාවිතය ඉහළට : වසරේ මුල් මාස පහ තුළ 47,310 දෙනෙකු අත්අඩංගුවට</b></a> <code>23 November 2026</code></li>
+    <li><a href="News/2026-11-23/502453-it-has-been-revealed-that-the-stf-jeep-involved-in-the-midig.md"><b>මිදිගම දුම්රිය අනතුරේ STF ජීප් රථය ආලෝක සංඥා නොතකා ධාවනය කර ඇති බවට අනාවරණයක්</b></a> <code>23 November 2026</code></li>
+    <li><a href="News/2026-11-23/502354-stf-vehicle-collides-with-train-in-midigama-four-injured-two.md"><b>මිදිගමදී STF රථයක් දුම්රියක ගැටෙයි - සිව්දෙනෙකුට තුවාල, දෙදෙනෙකුට බරපතළයි</b></a> <code>23 November 2026</code></li>
   </ul>
 </details>
 
