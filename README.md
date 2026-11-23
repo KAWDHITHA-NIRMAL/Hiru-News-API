@@ -17,15 +17,15 @@
 
 <br><br>
 
-<a href="News/2026-11-23/502482-galadari-hotel-to-be-rebranded-as-radisson-blu-hotel-galadar.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795424211_4186342_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-24/502593-a-special-project-to-remove-37-houses-located-on-the-kolonna.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795459949_5980582_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ගලධාරි හෝටලය Radission Blu Hotel Galadari Colombo ලෙස සන්නාමගත කෙරේ</h2>
-<p><i>galadari hotel to be rebranded as radisson blu hotel galadari colombo</i></p>
+<h2>කොලොන්නාව තෙල් නළ මත පිහිටි නිවාස 37ක් ඉවත් කර නව නිවාස ලබාදීමට විශේෂ ව්‍යාපෘතියක්</h2>
+<p><i>a special project to remove 37 houses located on the kolonnawa oil pipeline and provide new houses</i></p>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-23&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-24&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=General&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Hiru%20News&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-23/502482-galadari-hotel-to-be-rebranded-as-radisson-blu-hotel-galadar.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-24/502593-a-special-project-to-remove-37-houses-located-on-the-kolonna.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,10 +43,10 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-23/502465-plans-to-recover-compensation-for-damage-caused-to-the-coast.md"><b>ඩීසල් කාන්දුවෙන් වෙරළ තීරයට සිදුවූ හානියට වන්දි අයකරගැනීමට සැරසේ</b></a> <code>23 November 2026</code></li>
-    <li><a href="News/2026-11-23/502462-pillayans-defamation-case-against-shanakkian-rasamanikkam-ad.md"><b>ෂානක්කියන් රාසමාණික්කම්ට එරෙහි පිල්ලෙයාන්ගේ අපහාස නඩුව ජනවාරි 07 වැනිදාට කල් තැබේ</b></a> <code>23 November 2026</code></li>
-    <li><a href="News/2026-11-23/502460-synthetic-drug-use-on-the-rise-in-sri-lanka-47310-people-arr.md"><b>ශ්‍රී ලංකාව තුළ කෘත්‍රිම මත්ද්‍රව්‍ය උත්තේජක භාවිතය ඉහළට : වසරේ මුල් මාස පහ තුළ 47,310 දෙනෙකු අත්අඩංගුවට</b></a> <code>23 November 2026</code></li>
-    <li><a href="News/2026-11-23/502453-it-has-been-revealed-that-the-stf-jeep-involved-in-the-midig.md"><b>මිදිගම දුම්රිය අනතුරේ STF ජීප් රථය ආලෝක සංඥා නොතකා ධාවනය කර ඇති බවට අනාවරණයක්</b></a> <code>23 November 2026</code></li>
+    <li><a href="News/2026-11-24/502589-the-countrys-gdp-is-still-lower-than-in-2018-economic-analys.md"><b>"රටේ දළ දේශීය නිශ්පාදිතය තවමත් 2018 වසරටත් වඩා පහළින්" - ආර්ථික විශ්ලේෂක ධනනාත් ප්‍රනාන්දු</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-23/502584-we-will-not-bow-to-the-protests-nor-will-we-change-the-budge.md"><b>''උද්ඝෝෂණවලට හිස නමන්නෙත් නෑ.. අයවැය වෙනස් කරන්නෙත් නෑ..'' - නි. ඇමති මහින්ද ජයසිංහ</b></a> <code>23 November 2026</code></li>
+    <li><a href="News/2026-11-23/502583-they-are-trying-to-create-discontent-with-the-government-tha.md"><b>සාර්ථක ගමනක් යන රජය ගැන අප්‍රසාදයක් හදන්න යන්නේ - නි. ඇමති ගමගෙදර</b></a> <code>23 November 2026</code></li>
+    <li><a href="News/2026-11-23/502582-working-people-have-a-little-brain-lets-see-if-they-will-tak.md"><b>වැඩ කරන ජනතාවට පොඩ්ඩක් මොළේ තියෙනවා.. අපි බලමු පාරට බහීද කියලා - ඇමති ක්‍රිශාන්ත</b></a> <code>23 November 2026</code></li>
     <li><a href="News/2026-11-23/502354-stf-vehicle-collides-with-train-in-midigama-four-injured-two.md"><b>මිදිගමදී STF රථයක් දුම්රියක ගැටෙයි - සිව්දෙනෙකුට තුවාල, දෙදෙනෙකුට බරපතළයි</b></a> <code>23 November 2026</code></li>
   </ul>
 </details>
