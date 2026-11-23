@@ -17,15 +17,15 @@
 
 <br><br>
 
-<a href="News/2026-11-22/502308-protests-in-many-areas-against-the-psta-act.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795372058_8904411_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-23/502312-rain-in-many-areas-today.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795395000_1813753_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>PSTA පනතට එරෙහිව ප්‍රදේශ රැසක විරෝධතා</h2>
-<p><i>protests in many areas against the psta act</i></p>
+<h2>අදත් ප්‍රදේශ රැසකට වැසි</h2>
+<p><i>rain in many areas today</i></p>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-22&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-23&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=General&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Hiru%20News&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-22/502308-protests-in-many-areas-against-the-psta-act.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-23/502312-rain-in-many-areas-today.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
+    <li><a href="News/2026-11-22/502308-protests-in-many-areas-against-the-psta-act.md"><b>PSTA පනතට එරෙහිව ප්‍රදේශ රැසක විරෝධතා</b></a> <code>22 November 2026</code></li>
     <li><a href="News/2026-11-22/502307-two-people-killed-another-injured-after-being-hit-by-night-m.md"><b>ත්‍රිකුණාමලයේදී රාත්‍රී තැපැල් දුම්රියේ ගැටී පුද්ගලයින් දෙදෙනෙක් මරුට: තවත් අයෙකුට තුවාල</b></a> <code>22 November 2026</code></li>
     <li><a href="News/2026-11-22/502305-a-discussion-with-slaito-and-thasl-representatives-about-the.md"><b>සංචාරක කර්මාන්තයේ 2027 සංවර්ධන සැලසුම් ගැන SLAITO සහ THASL නියෝජිතයන් සමඟ සාකච්ඡාවක්</b></a> <code>22 November 2026</code></li>
     <li><a href="News/2026-11-22/502301-hiru-cia-reveals-gem-smuggling-that-has-split-the-kantale-re.md"><b>කන්තලේ ජලාශය දෙකඩ කළ මැණික් ඉල්ලම් ජාවාරම ගැන හිරු CIA අනාවරණය: කැණීමට අවසරයක් ලබාගෙන නැතැයි වන සංරක්ෂණ නිලධාරීන් කියයි</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502298-sri-lanka-and-thailand-sign-visa-waiver-agreement-for-ordina.md"><b>සාමාන්‍ය විදේශ ගමන් බලපත්‍ර හිමියන්ට වීසා නිදහස් කිරීමේ ගිවිසුමකට ශ්‍රී ලංකාව සහ තායිලන්තය අත්සන් තබයි</b></a> <code>22 November 2026</code></li>
-    <li><a href="News/2026-11-22/502207-a-lunchtime-protest-in-front-of-government-offices-tomorrow-.md"><b>රජයේ කාර්යාල ඉදිරිපිට හෙට කෑම පැයේ විරෝධතාවක් : විදුහල්පතිවරුත් කලු ඇදුමින් පාසලට</b></a> <code>22 November 2026</code></li>
+    <li><a href="News/2026-11-22/502175-cyber-attack-on-the-official-website-of-the-department-of-mo.md"><b>මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට සයිබර් ප්‍රහාරයක් - කාර්යාලීය සේවා හෙට සිට සාමාන්‍ය පරිදි</b></a> <code>22 November 2026</code></li>
   </ul>
 </details>
 
