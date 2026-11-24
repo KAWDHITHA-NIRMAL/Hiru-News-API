@@ -1,0 +1,51 @@
+# දිවයිනේ ප්‍රදේශ රැසකට මි.මී. 75ට වැඩි තරමක තද වැසි
+
+### moderate to heavy rains exceeding 75 mm in many areas of the island
+
+<p align="center">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795481246_4803982_hirunews.jpg" alt="News Image" width="600" style="border-radius: 8px;"/>
+</p>
+
+> 📅 **Published Date**: `2026-11-24` (`24 November 2026`)  
+> 📂 **Category**: `General`  
+> 🔗 **Original Source**: [Hiru News](https://hirunews.lk/502595/moderate-to-heavy-rains-exceeding-75-mm-in-many-areas-of-the-island)
+
+---
+
+### 📝 පුවත් විස්තරය:
+
+උතුරු, නැගෙනහිර සහ ඌව පළාත්වල සහ පොලොන්නරුව දිස්ත්‍රික්කයේ අද (24) විටින් විට වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් සඳහන් කරනවා.දිවයිනේ සෙසු ප්‍රදේශවලට ප.ව. 2.00න් පසුව තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකියි.එසේම බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 75ට වැඩි තරමක තද වැසි ඇති විය හැකි බව එම නිවේදනයේ සඳහන්.බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල, මාතර සහ බදුල්ල දිස්ත්‍රික්කවලත් අළුයම් කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකියි.තවද, ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසයි එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටින්නේ.
+
+---
+
+<p align="center">
+  <a href="https://www.hirunews.lk">
+    <img src="https://img.shields.io/badge/Hiru%20News-Official%20Site-red?style=for-the-badge&logo=rss" alt="Hiru News"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 👨‍💻 Developed & Maintained by
+**[Kawditha Nirmal](https://github.com/KAWDHITHA-NIRMAL)**  
+⚡ Powered by **[Code X SL </>](https://github.com/Code-X-SL)**
+
+<br>
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VatTpZU7oQhkw1WbZS0B" target="_blank">
+    <img src="https://social-card-codex.vercel.app/api?channellink=https://whatsapp.com/channel/0029VatTpZU7oQhkw1WbZS0B&theme=dark&overrideVerified=true&overrideVerifiedIcon=https://static.whatsapp.net/rsrc.php/v4/yM/r/SGDtYg_EYce.png&fontFamily=system-ui" width="280" alt="CodeX WhatsApp Channel" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/codex_developer" target="_blank">
+    <img src="https://social-card-codex.vercel.app/api/telegram?username=codex_developer&theme=dark&overrideVerified=true&overrideVerifiedIcon=https://static.whatsapp.net/rsrc.php/v4/yM/r/SGDtYg_EYce.png&fontFamily=system-ui" width="280" alt="CodeX Telegram Channel" />
+  </a>
+  &nbsp;
+  <a href="https://whatsapp.com/channel/0029Va5ErMS2phHGA9yWn12X" target="_blank">
+    <img src="https://social-card-codex.vercel.app/api?channellink=https://whatsapp.com/channel/0029Va5ErMS2phHGA9yWn12X&theme=dark&overrideVerified=true&overrideVerifiedIcon=https://static.whatsapp.net/rsrc.php/v4/yM/r/SGDtYg_EYce.png&fontFamily=system-ui" width="280" alt="CodeX WhatsApp Community" />
+  </a>
+</p>
+
+</div>
