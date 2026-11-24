@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-24/502672-six-arrested-for-illegally-mining-gems-in-the-pattipola-rese.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795498038_8176496_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-24/502781-a-constable-who-grew-a-beard-for-a-pre-shoot-in-uniform-face.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795536196_9224874_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>අඹේවෙල - පට්ටිපොළ සංරක්ෂිත වනාන්තරයේ අනවසරයෙන් මැණික් ගැරූ හයදෙනෙකු අත්අඩංගුවට</h2>
-<p><i>six arrested for illegally mining gems in the pattipola reserve forest in ambewela</i></p>
+<h2>නිල ඇඳුමෙන් ''ප්‍රී ෂූට්'' එකකට රැවුල වවාගෙන ගිය කොස්තාපල්ට නුවරදි අකරතැබ්බක්</h2>
+<p><i>a constable who grew a beard for a pre shoot in uniform faces trouble in kandy</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-24&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-24/502672-six-arrested-for-illegally-mining-gems-in-the-pattipola-rese.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-24/502781-a-constable-who-grew-a-beard-for-a-pre-shoot-in-uniform-face.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-24/502657-investigation-into-the-massive-fish-deaths-in-kilinochchi-la.md"><b>කිලිනොච්චි වැවේ මසුන් විශාල වශයෙන් මියයාම ගැන විමර්ශනයක් - ධීවර ඇමතිගෙන් වාර්තාවක් කැඳවයි</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502645-motorcycle-traveling-at-110-kilometers-per-hour-collides-wit.md"><b>පැයට කිලෝමීටර් 110ක වේගයෙන් පැමිණි යතුරුපැදිය ලොරියක ගැටී සිරවෙයි : පැදිකරුට බරපතළයි</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502642-beaver-moon-supermoon-visible-to-the-naked-eye-tonight.md"><b>පියවි ඇසින් දැකගත හැකි 'බීවර් මූන්' සුපිරි සඳ අද රාත්‍රියේ</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502635-si-who-ruined-the-life-of-a-minor-girl-under-the-guise-of-a-.md"><b>පොලිස් නිල ඇඳුමට මුවා වී බාලවයස්කාර දැරියකගේ ජීවිතය විනාශ කළ SIට වසර 50ක සිර දඬුවමක්</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502597-today-is-the-full-moon-poya-day-hiru-seela-paramitha-at-the-.md"><b>ඉල් පුන් පොහොය අදයි - හිරු සීල පාරමිතාව අඟුණකොළපැලැස්ස අලුත්වැව පුරාණ රාජ මහා විහාරස්ථානයේදී</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502779-cabinet-approval-to-amend-the-national-language-education-an.md"><b>ජාතික භාෂා අධ්‍යාපන සහ පුහුණු ආයතනය පනත සංශෝධනය කිරීමට කැබිනට් අනුමැතිය</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502777-dairy-farmers-in-thirukkovil-ampara-face-crisis-due-to-lack-.md"><b>තෘණ භූමි නොමැති වීමෙන් අම්පාර තිරුක්කෝවිල් ප්‍රදේශයේ කිරි ගොවීන් අර්බුදයක</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502775-we-are-building-the-country-by-eliminating-privileges-the-pe.md"><b>අපි රට හදන්නේ වරප්‍රසාදත් නැති කරගෙන.. ජනතාවත් ඒ වගේම කැපවෙන්න ඕනි - ඇමති සමන්ත</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502766-we-collect-money-from-taxes-and-give-it-back-to-the-people-a.md"><b>"අපි බදු ගහලා සල්ලි ගත්තට ආපහු ඒක සහන විදිහට ජනතාවටම දෙනවා" - නි. ඇමති ටී.බී. සරත්</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502761-a-strong-earthquake-measuring-6-4-on-the-richter-scale-struc.md"><b>ඉන්දියානු සාගරයේ මොරිෂස් - රියුනියන් කලාපයේ රික්ටර් මාපක 6.4ක ප්‍රබල භූ චලනයක් - ශ්‍රී ලංකාවට සුනාමි අවධානමක් නෑ</b></a> <code>24 November 2026</code></li>
   </ul>
 </details>
 
