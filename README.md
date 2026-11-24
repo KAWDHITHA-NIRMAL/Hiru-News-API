@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-24/502593-a-special-project-to-remove-37-houses-located-on-the-kolonna.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795459949_5980582_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-24/502672-six-arrested-for-illegally-mining-gems-in-the-pattipola-rese.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795498038_8176496_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>කොලොන්නාව තෙල් නළ මත පිහිටි නිවාස 37ක් ඉවත් කර නව නිවාස ලබාදීමට විශේෂ ව්‍යාපෘතියක්</h2>
-<p><i>a special project to remove 37 houses located on the kolonnawa oil pipeline and provide new houses</i></p>
+<h2>අඹේවෙල - පට්ටිපොළ සංරක්ෂිත වනාන්තරයේ අනවසරයෙන් මැණික් ගැරූ හයදෙනෙකු අත්අඩංගුවට</h2>
+<p><i>six arrested for illegally mining gems in the pattipola reserve forest in ambewela</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-24&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-24/502593-a-special-project-to-remove-37-houses-located-on-the-kolonna.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-24/502672-six-arrested-for-illegally-mining-gems-in-the-pattipola-rese.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-24/502589-the-countrys-gdp-is-still-lower-than-in-2018-economic-analys.md"><b>"රටේ දළ දේශීය නිශ්පාදිතය තවමත් 2018 වසරටත් වඩා පහළින්" - ආර්ථික විශ්ලේෂක ධනනාත් ප්‍රනාන්දු</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-23/502584-we-will-not-bow-to-the-protests-nor-will-we-change-the-budge.md"><b>''උද්ඝෝෂණවලට හිස නමන්නෙත් නෑ.. අයවැය වෙනස් කරන්නෙත් නෑ..'' - නි. ඇමති මහින්ද ජයසිංහ</b></a> <code>23 November 2026</code></li>
-    <li><a href="News/2026-11-23/502583-they-are-trying-to-create-discontent-with-the-government-tha.md"><b>සාර්ථක ගමනක් යන රජය ගැන අප්‍රසාදයක් හදන්න යන්නේ - නි. ඇමති ගමගෙදර</b></a> <code>23 November 2026</code></li>
-    <li><a href="News/2026-11-23/502582-working-people-have-a-little-brain-lets-see-if-they-will-tak.md"><b>වැඩ කරන ජනතාවට පොඩ්ඩක් මොළේ තියෙනවා.. අපි බලමු පාරට බහීද කියලා - ඇමති ක්‍රිශාන්ත</b></a> <code>23 November 2026</code></li>
-    <li><a href="News/2026-11-23/502354-stf-vehicle-collides-with-train-in-midigama-four-injured-two.md"><b>මිදිගමදී STF රථයක් දුම්රියක ගැටෙයි - සිව්දෙනෙකුට තුවාල, දෙදෙනෙකුට බරපතළයි</b></a> <code>23 November 2026</code></li>
+    <li><a href="News/2026-11-24/502657-investigation-into-the-massive-fish-deaths-in-kilinochchi-la.md"><b>කිලිනොච්චි වැවේ මසුන් විශාල වශයෙන් මියයාම ගැන විමර්ශනයක් - ධීවර ඇමතිගෙන් වාර්තාවක් කැඳවයි</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502645-motorcycle-traveling-at-110-kilometers-per-hour-collides-wit.md"><b>පැයට කිලෝමීටර් 110ක වේගයෙන් පැමිණි යතුරුපැදිය ලොරියක ගැටී සිරවෙයි : පැදිකරුට බරපතළයි</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502642-beaver-moon-supermoon-visible-to-the-naked-eye-tonight.md"><b>පියවි ඇසින් දැකගත හැකි 'බීවර් මූන්' සුපිරි සඳ අද රාත්‍රියේ</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502635-si-who-ruined-the-life-of-a-minor-girl-under-the-guise-of-a-.md"><b>පොලිස් නිල ඇඳුමට මුවා වී බාලවයස්කාර දැරියකගේ ජීවිතය විනාශ කළ SIට වසර 50ක සිර දඬුවමක්</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502597-today-is-the-full-moon-poya-day-hiru-seela-paramitha-at-the-.md"><b>ඉල් පුන් පොහොය අදයි - හිරු සීල පාරමිතාව අඟුණකොළපැලැස්ස අලුත්වැව පුරාණ රාජ මහා විහාරස්ථානයේදී</b></a> <code>24 November 2026</code></li>
   </ul>
 </details>
 
