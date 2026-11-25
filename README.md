@@ -17,15 +17,15 @@
 
 <br><br>
 
-<a href="News/2026-11-24/502781-a-constable-who-grew-a-beard-for-a-pre-shoot-in-uniform-face.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795536196_9224874_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-25/502794-two-arrested-for-breaking-into-william-and-kates-home.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795545550_6852685_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>නිල ඇඳුමෙන් ''ප්‍රී ෂූට්'' එකකට රැවුල වවාගෙන ගිය කොස්තාපල්ට නුවරදි අකරතැබ්බක්</h2>
-<p><i>a constable who grew a beard for a pre shoot in uniform faces trouble in kandy</i></p>
+<h2>විලියම් - කේට් යුවළගේ නිවසකට ඇතුළු වූ දෙදෙනෙකු අත්අඩංගුවට</h2>
+<p><i>two arrested for breaking into william and kates home</i></p>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-24&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-25&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=General&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Hiru%20News&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-24/502781-a-constable-who-grew-a-beard-for-a-pre-shoot-in-uniform-face.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-25/502794-two-arrested-for-breaking-into-william-and-kates-home.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,10 +43,10 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-24/502779-cabinet-approval-to-amend-the-national-language-education-an.md"><b>ජාතික භාෂා අධ්‍යාපන සහ පුහුණු ආයතනය පනත සංශෝධනය කිරීමට කැබිනට් අනුමැතිය</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502777-dairy-farmers-in-thirukkovil-ampara-face-crisis-due-to-lack-.md"><b>තෘණ භූමි නොමැති වීමෙන් අම්පාර තිරුක්කෝවිල් ප්‍රදේශයේ කිරි ගොවීන් අර්බුදයක</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502775-we-are-building-the-country-by-eliminating-privileges-the-pe.md"><b>අපි රට හදන්නේ වරප්‍රසාදත් නැති කරගෙන.. ජනතාවත් ඒ වගේම කැපවෙන්න ඕනි - ඇමති සමන්ත</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502766-we-collect-money-from-taxes-and-give-it-back-to-the-people-a.md"><b>"අපි බදු ගහලා සල්ලි ගත්තට ආපහු ඒක සහන විදිහට ජනතාවටම දෙනවා" - නි. ඇමති ටී.බී. සරත්</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502790-sunils-ultimate-love-for-begging-and-donating-a-wheelchair-t.md"><b>සිඟමන් යැද රෝද පුටුවක් රෝහලට පරිත්‍යාග කළ සුනිල්ගේ පරම ආදරය</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502789-an-attack-on-an-oil-tanker-sailing-in-the-strait-of-hormuz.md"><b>හෝමූස් සමුද්‍ර සන්ධියේ යාත්‍රා කළ තෙල් නෞකාවකට ප්‍රහාරයක්</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502788-president-anuras-birthday-celebrated-with-cake-cutting-and-e.md"><b>උතුරේදී කේක් කපා කේක් කවා සැමරූ ජනපති අනුරගේ ඡන්ම දිනය</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-24/502787-a-fisherman-with-a-boat-stranded-at-sea-is-rescued-by-the-na.md"><b>මුහුදේ අතරමං වූ යාත්‍රාවක් සමග ධීවරයෙක් නාවික හමුදාවෙන් බේරා ගැනේ</b></a> <code>24 November 2026</code></li>
     <li><a href="News/2026-11-24/502761-a-strong-earthquake-measuring-6-4-on-the-richter-scale-struc.md"><b>ඉන්දියානු සාගරයේ මොරිෂස් - රියුනියන් කලාපයේ රික්ටර් මාපක 6.4ක ප්‍රබල භූ චලනයක් - ශ්‍රී ලංකාවට සුනාමි අවධානමක් නෑ</b></a> <code>24 November 2026</code></li>
   </ul>
 </details>
