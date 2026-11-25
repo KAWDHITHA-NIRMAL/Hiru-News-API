@@ -17,15 +17,15 @@
 
 <br><br>
 
-<a href="News/2026-11-25/502962-post-internship-medical-appointment-petition-gmoa-prepares-t.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795598584_3476217_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-26/503059-a-delegation-including-russian-prosecutor-general-alexander-.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795632374_8696445_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>පශ්චාත් සීමාවාසික වෛද්‍ය පත්වීම් පෙත්සම - සෞඛ්‍ය ඇමති ඇතුළු බලධාරීන්ට එරෙහිව 'අධිකරණයට අපහාස කිරීමේ' නීතිමය පියවර ගැනීමට GMOA සූදානමක</h2>
-<p><i>post internship medical appointment petition gmoa prepares to take legal action for contempt of court against authorities including the minister of health</i></p>
+<h2>රුසියානු අභිචෝදක ජෙනරාල් ඇලෙක්සැන්ඩර් ගුට්සාන් ඇතුළු දූත පිරිසක් දිවයිනට</h2>
+<p><i>a delegation including russian prosecutor general alexander gutsan arrives in the island</i></p>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-25&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=General&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Hiru%20News&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-25/502962-post-internship-medical-appointment-petition-gmoa-prepares-t.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-26/503059-a-delegation-including-russian-prosecutor-general-alexander-.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-25/502961-the-bribery-commissions-petition-seeking-to-cancel-the-bail-.md"><b>පා. ම. චාමර සම්පත්ගේ ඇප නියෝගය අවලංගු කරන්නැයි අල්ලස් කොමිසම ඉල්ලූ පෙත්සමේ නියෝගය ලබන 11 වැනිදා</b></a> <code>25 November 2026</code></li>
-    <li><a href="News/2026-11-25/502957-bangladesh-garment-workers-get-massive-pay-hike-amid-protest.md"><b>විරෝධතා මැද බංග්ලාදේශයේ ඇඟලුම් සේවකයින්ට දැවැන්ත වැටුප් වැඩිවීමක්</b></a> <code>25 November 2026</code></li>
-    <li><a href="News/2026-11-25/502956-another-incident-in-the-hatton-shoplifting-wave-cctv-footage.md"><b>හැටන් වෙළෙඳසැල් සොරකම් රැල්ලට තවත් සිදුවීමක් - දර්ශන CCTV හි සටහන් වෙයි</b></a> <code>25 November 2026</code></li>
+    <li><a href="News/2026-11-25/503052-public-health-inspectors-on-alert-for-special-raids-during-t.md"><b>උත්සව සමයේ විශේෂ වැටලීම් සඳහා මහජන සෞඛ්‍ය පරීක්ෂකවරුන් සීරුවෙන්</b></a> <code>25 November 2026</code></li>
+    <li><a href="News/2026-11-25/503047-immigration-and-emigration-eta-website-temporarily-down-temp.md"><b>ආගමන හා විගමන ETA වෙබ් අඩවිය තාවකාලිකව අක්‍රියයි: පූර්ව අනුමැතියකින් තොරව ශ්‍රී ලංකාවට පැමිණීමට සංචාරකයින්ට තාවකාලික අවසරය</b></a> <code>25 November 2026</code></li>
+    <li><a href="News/2026-11-25/503040-many-roads-in-kandy-are-flooded-due-to-heavy-rains.md"><b>මහ වැස්සෙන් මහනුවර මාර්ග රැසක් ජලයෙන් යටවෙයි</b></a> <code>25 November 2026</code></li>
+    <li><a href="News/2026-11-25/503038-two-spill-gates-of-the-thabbowa-reservoir-to-be-opened-warni.md"><b>තබ්බෝව ජලාශයේ වාන් දොරටු දෙකක් විවෘත කෙරේ: මී ඔය දෙපස ජනතාවට අනතුරු ඇඟවීම්</b></a> <code>25 November 2026</code></li>
     <li><a href="News/2026-11-25/502952-court-rejects-gotabaya-rajapaksas-request-to-temporarily-lif.md"><b>ගෝඨාභය රාජපක්ෂගේ විදෙස් ගමන් තහනම තාවකාලිකව ඉවත් කිරීමේ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි</b></a> <code>25 November 2026</code></li>
-    <li><a href="News/2026-11-25/502945-un-says-five-women-are-killed-by-an-intimate-partner-every-h.md"><b>සෑම පැයකදීම ලොව පුරා කාන්තාවන් පස්දෙනෙකු සමීපතමයන් අතින් ඝාතනයට ලක්වන බව එක්සත් ජාතීන්ගේ සංවිධානය කියයි</b></a> <code>25 November 2026</code></li>
   </ul>
 </details>
 
