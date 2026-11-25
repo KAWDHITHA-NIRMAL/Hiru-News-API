@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-25/502794-two-arrested-for-breaking-into-william-and-kates-home.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795545550_6852685_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-25/502962-post-internship-medical-appointment-petition-gmoa-prepares-t.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795598584_3476217_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>විලියම් - කේට් යුවළගේ නිවසකට ඇතුළු වූ දෙදෙනෙකු අත්අඩංගුවට</h2>
-<p><i>two arrested for breaking into william and kates home</i></p>
+<h2>පශ්චාත් සීමාවාසික වෛද්‍ය පත්වීම් පෙත්සම - සෞඛ්‍ය ඇමති ඇතුළු බලධාරීන්ට එරෙහිව 'අධිකරණයට අපහාස කිරීමේ' නීතිමය පියවර ගැනීමට GMOA සූදානමක</h2>
+<p><i>post internship medical appointment petition gmoa prepares to take legal action for contempt of court against authorities including the minister of health</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-25&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-25/502794-two-arrested-for-breaking-into-william-and-kates-home.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-25/502962-post-internship-medical-appointment-petition-gmoa-prepares-t.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-24/502790-sunils-ultimate-love-for-begging-and-donating-a-wheelchair-t.md"><b>සිඟමන් යැද රෝද පුටුවක් රෝහලට පරිත්‍යාග කළ සුනිල්ගේ පරම ආදරය</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502789-an-attack-on-an-oil-tanker-sailing-in-the-strait-of-hormuz.md"><b>හෝමූස් සමුද්‍ර සන්ධියේ යාත්‍රා කළ තෙල් නෞකාවකට ප්‍රහාරයක්</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502788-president-anuras-birthday-celebrated-with-cake-cutting-and-e.md"><b>උතුරේදී කේක් කපා කේක් කවා සැමරූ ජනපති අනුරගේ ඡන්ම දිනය</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502787-a-fisherman-with-a-boat-stranded-at-sea-is-rescued-by-the-na.md"><b>මුහුදේ අතරමං වූ යාත්‍රාවක් සමග ධීවරයෙක් නාවික හමුදාවෙන් බේරා ගැනේ</b></a> <code>24 November 2026</code></li>
-    <li><a href="News/2026-11-24/502761-a-strong-earthquake-measuring-6-4-on-the-richter-scale-struc.md"><b>ඉන්දියානු සාගරයේ මොරිෂස් - රියුනියන් කලාපයේ රික්ටර් මාපක 6.4ක ප්‍රබල භූ චලනයක් - ශ්‍රී ලංකාවට සුනාමි අවධානමක් නෑ</b></a> <code>24 November 2026</code></li>
+    <li><a href="News/2026-11-25/502961-the-bribery-commissions-petition-seeking-to-cancel-the-bail-.md"><b>පා. ම. චාමර සම්පත්ගේ ඇප නියෝගය අවලංගු කරන්නැයි අල්ලස් කොමිසම ඉල්ලූ පෙත්සමේ නියෝගය ලබන 11 වැනිදා</b></a> <code>25 November 2026</code></li>
+    <li><a href="News/2026-11-25/502957-bangladesh-garment-workers-get-massive-pay-hike-amid-protest.md"><b>විරෝධතා මැද බංග්ලාදේශයේ ඇඟලුම් සේවකයින්ට දැවැන්ත වැටුප් වැඩිවීමක්</b></a> <code>25 November 2026</code></li>
+    <li><a href="News/2026-11-25/502956-another-incident-in-the-hatton-shoplifting-wave-cctv-footage.md"><b>හැටන් වෙළෙඳසැල් සොරකම් රැල්ලට තවත් සිදුවීමක් - දර්ශන CCTV හි සටහන් වෙයි</b></a> <code>25 November 2026</code></li>
+    <li><a href="News/2026-11-25/502952-court-rejects-gotabaya-rajapaksas-request-to-temporarily-lif.md"><b>ගෝඨාභය රාජපක්ෂගේ විදෙස් ගමන් තහනම තාවකාලිකව ඉවත් කිරීමේ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි</b></a> <code>25 November 2026</code></li>
+    <li><a href="News/2026-11-25/502945-un-says-five-women-are-killed-by-an-intimate-partner-every-h.md"><b>සෑම පැයකදීම ලොව පුරා කාන්තාවන් පස්දෙනෙකු සමීපතමයන් අතින් ඝාතනයට ලක්වන බව එක්සත් ජාතීන්ගේ සංවිධානය කියයි</b></a> <code>25 November 2026</code></li>
   </ul>
 </details>
 
