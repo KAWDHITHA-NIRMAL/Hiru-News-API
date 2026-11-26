@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-26/503059-a-delegation-including-russian-prosecutor-general-alexander-.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795632374_8696445_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-26/503077-13-year-old-girl-dies-after-falling-from-a-cab.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795657885_4883803_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>රුසියානු අභිචෝදක ජෙනරාල් ඇලෙක්සැන්ඩර් ගුට්සාන් ඇතුළු දූත පිරිසක් දිවයිනට</h2>
-<p><i>a delegation including russian prosecutor general alexander gutsan arrives in the island</i></p>
+<h2>කැබ් රථයකින් ඇද වැටී අවුරුදු 13ක දියණියක් ජීවිතක්ෂයට</h2>
+<p><i>13 year old girl dies after falling from a cab</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-26/503059-a-delegation-including-russian-prosecutor-general-alexander-.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-26/503077-13-year-old-girl-dies-after-falling-from-a-cab.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
+    <li><a href="News/2026-11-26/503067-heavy-rains-exceeding-100-mm-at-some-places-in-the-western-s.md"><b>බස්නාහිර, සබරගමුව, මධ්‍යම, උතුරු මැද, වයඹ සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මි. මී. 100 ට වැඩි තද වැසි</b></a> <code>26 November 2026</code></li>
+    <li><a href="News/2026-11-26/503059-a-delegation-including-russian-prosecutor-general-alexander-.md"><b>රුසියානු අභිචෝදක ජෙනරාල් ඇලෙක්සැන්ඩර් ගුට්සාන් ඇතුළු දූත පිරිසක් දිවයිනට</b></a> <code>26 November 2026</code></li>
     <li><a href="News/2026-11-25/503052-public-health-inspectors-on-alert-for-special-raids-during-t.md"><b>උත්සව සමයේ විශේෂ වැටලීම් සඳහා මහජන සෞඛ්‍ය පරීක්ෂකවරුන් සීරුවෙන්</b></a> <code>25 November 2026</code></li>
     <li><a href="News/2026-11-25/503047-immigration-and-emigration-eta-website-temporarily-down-temp.md"><b>ආගමන හා විගමන ETA වෙබ් අඩවිය තාවකාලිකව අක්‍රියයි: පූර්ව අනුමැතියකින් තොරව ශ්‍රී ලංකාවට පැමිණීමට සංචාරකයින්ට තාවකාලික අවසරය</b></a> <code>25 November 2026</code></li>
-    <li><a href="News/2026-11-25/503040-many-roads-in-kandy-are-flooded-due-to-heavy-rains.md"><b>මහ වැස්සෙන් මහනුවර මාර්ග රැසක් ජලයෙන් යටවෙයි</b></a> <code>25 November 2026</code></li>
-    <li><a href="News/2026-11-25/503038-two-spill-gates-of-the-thabbowa-reservoir-to-be-opened-warni.md"><b>තබ්බෝව ජලාශයේ වාන් දොරටු දෙකක් විවෘත කෙරේ: මී ඔය දෙපස ජනතාවට අනතුරු ඇඟවීම්</b></a> <code>25 November 2026</code></li>
-    <li><a href="News/2026-11-25/502952-court-rejects-gotabaya-rajapaksas-request-to-temporarily-lif.md"><b>ගෝඨාභය රාජපක්ෂගේ විදෙස් ගමන් තහනම තාවකාලිකව ඉවත් කිරීමේ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි</b></a> <code>25 November 2026</code></li>
+    <li><a href="News/2026-11-25/503030-the-us-is-moving-to-impose-new-tariffs-on-countries-includin.md"><b>චීනය, යුරෝපා සංගමය, සිංගප්පූරුව, ස්විට්සර්ලන්තය, කොරියාව, වියට්නාමය, බංග්ලාදේශය, ජපානය සහ ඉන්දියාව ඇතුළු රටවල් සඳහා නව තීරුබදු පැනවීමට අමෙරිකාව පියවර ගනී</b></a> <code>25 November 2026</code></li>
   </ul>
 </details>
 
