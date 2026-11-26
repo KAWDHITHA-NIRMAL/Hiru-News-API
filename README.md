@@ -17,15 +17,15 @@
 
 <br><br>
 
-<a href="News/2026-11-26/503242-suryavanshi-who-scored-a-quick-40-against-sri-lanka-is-out.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795691359_716347_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-27/503300-government-should-publicly-apologize-for-wartime-attacks-un-.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795719479_2333753_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>ශ්‍රී ලංකාවට එරෙහි තරගයේ වේගවත් ලකුණු 40ක් ලබා සිටි සූර්යවංශි දැවී යයි</h2>
-<p><i>suryavanshi who scored a quick 40 against sri lanka is out</i></p>
+<h2>යුද සමයේ ප්‍රහාර ගැන රජය ප්‍රසිද්ධියේ සමාව ගත යුතුයි: එක්සත් ජාතීන්ගේ මානව හිමිකම් කාර්යාල වාර්තාවකින් නිර්දේශ</h2>
+<p><i>government should publicly apologize for wartime attacks un human rights office report recommends</i></p>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-26&color=2563eb&style=flat-square" alt="Date" />
+  <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
   <img src="https://img.shields.io/static/v1?label=Category&message=General&color=ea580c&style=flat-square" alt="Category" />
   <img src="https://img.shields.io/static/v1?label=Source&message=Hiru%20News&color=16a34a&style=flat-square" alt="Source" />
 </p>
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-26/503242-suryavanshi-who-scored-a-quick-40-against-sri-lanka-is-out.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-27/503300-government-should-publicly-apologize-for-wartime-attacks-un-.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,10 +43,10 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-26/503237-8-people-including-a-girl-and-5-women-killed-in-road-acciden.md"><b>දිවයිනේ විවිධ ප්‍රදේශවල සිදුවූ රිය අනතුරුවලින් දැරියක් සහ කාන්තාවන් 05 දෙනකු ඇතුළු 08 දෙනෙක් ජීවිතක්ෂයට</b></a> <code>26 November 2026</code></li>
-    <li><a href="News/2026-11-26/503218-macys-100-year-old-parade-postponed-due-to-weather.md"><b>වසර 100ක ඉතිහාසයක් ඇති Macy's පෙළපාළිය කාලගුණය නිසා කල්දමයි</b></a> <code>26 November 2026</code></li>
-    <li><a href="News/2026-11-26/503217-the-2-allocated-to-education-is-not-enough-allocations-shoul.md"><b>''අධ්‍යාපනයට වෙන් කරන 2% ප්‍රමාණවත් නෑ - ප්‍රතිපාදන 6% දක්වා වැඩි කළ යුතුයි'' - ඩඩ්ලි සිරිසේන</b></a> <code>26 November 2026</code></li>
-    <li><a href="News/2026-11-26/503209-rohitha-rajapaksa-leaves-after-giving-statements-to-the-fcid.md"><b>පැය 5 ක පමණ කාලයක් FCID ය හමුවේ ප්‍රකාශ ලබාදීමෙන් අනතුරුව රෝහිත රාජපක්ෂ, පිටව යයි</b></a> <code>26 November 2026</code></li>
+    <li><a href="News/2026-11-26/503295-foreign-minister-and-other-delegation-to-india-for-iora-summ.md"><b>අයෝරා සමුළුවට විදේශ ඇමති ඇතුළු පිරිස ඉන්දියාවට</b></a> <code>26 November 2026</code></li>
+    <li><a href="News/2026-11-26/503289-a-stock-of-drugs-worth-over-rs-181-9-million-was-seized-at-a.md"><b>පෑලියගොඩ රේගු ගුදමකදී රුපියල් මිලියන 181.9 කට අධික වටිනා මත්ද්‍රව්‍ය තොගයක් අත්අඩංගුවට</b></a> <code>26 November 2026</code></li>
+    <li><a href="News/2026-11-26/503287-we-talked-to-the-imf-and-removed-taxes-on-books-and-yogurt-w.md"><b>IMF එක්ක කතා කරලා පොත්පත්වල, යෝගට්වල බදු අයින් කළා.. අපි කරන්නේ කාටවත් කරන්න බැරි දේවල් - ජනපති</b></a> <code>26 November 2026</code></li>
+    <li><a href="News/2026-11-26/503284-fuel-is-being-transported-by-naval-vessel-to-the-new-fuel-st.md"><b>ඩෙල්ෆ්ට් දූපතේ නව ඉන්ධන හලට නාවික නෞකාවකින් ඉන්ධන ප්‍රවාහනය කෙරේ</b></a> <code>26 November 2026</code></li>
     <li><a href="News/2026-11-26/503067-heavy-rains-exceeding-100-mm-at-some-places-in-the-western-s.md"><b>බස්නාහිර, සබරගමුව, මධ්‍යම, උතුරු මැද, වයඹ සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මි. මී. 100 ට වැඩි තද වැසි</b></a> <code>26 November 2026</code></li>
   </ul>
 </details>
