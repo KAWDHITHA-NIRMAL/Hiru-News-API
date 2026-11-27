@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-27/503319-suspects-on-board-vessel-seized-with-drugs-in-southern-ocean.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795747150_4639462_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-27/503470-the-third-school-term-of-2026-ends-on-december-4th-the-new-s.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795778378_7759320_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>දකුණු මුහුදේ දී මත්ද්‍රව්‍ය සමග ඇල්ලූ යාත්‍රාවේ සිටි සැකකරුවන් ඉරාන ජාතිකයින් බව හෙළි වෙයි</h2>
-<p><i>suspects on board vessel seized with drugs in southern ocean revealed to be iranians</i></p>
+<h2>2026 වසරේ තුන්වන පාසල් වාරය දෙසැම්බර් 04 වැනිදායින් අවසන් : 2027 නව පාසල් වාරය ජනවාරි 04 වැනිදා ඇරඹෙයි</h2>
+<p><i>the third school term of 2026 ends on december 4th the new school term of 2027 begins on january 4th</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-27/503319-suspects-on-board-vessel-seized-with-drugs-in-southern-ocean.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-27/503470-the-third-school-term-of-2026-ends-on-december-4th-the-new-s.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-27/503316-two-dutch-owned-guns-returned-to-sri-lanka-a-note-about-the-.md"><b>ලන්දේසීන් සතුව තිබූ මහා තුවක්කු දෙකක් යළි ශ්‍රී ලංකාවට‍ - එක් තුවක්කුවක රජුට සම්බන්ධ සටහනක්</b></a> <code>27 November 2026</code></li>
-    <li><a href="News/2026-11-27/503311-four-suspects-arrested-while-excavating-for-the-purpose-of-s.md"><b>පුරාවස්තු සෙවීමේ අරමුණින් කැණීම් කරමින් සිටි සැකකරුවන් සිව්දෙනෙකු අත්අඩංගුවට</b></a> <code>27 November 2026</code></li>
-    <li><a href="News/2026-11-27/503307-suspect-arrested-for-defrauding-rs-1-million-by-creating-a-f.md"><b>ව්‍යාජ බැංකු වෙබ් අඩවියක් සකස් කර රුපියල් ලක්ෂ 10ක් වංචා කළ සැකකරුවෙකු අත්අඩංගුවට</b></a> <code>27 November 2026</code></li>
-    <li><a href="News/2026-11-27/503304-seeing-the-storm-of-memories-one-year-ago-today.md"><b>මතක කුණාටුව දිට්වා - අදට වසරයි</b></a> <code>27 November 2026</code></li>
-    <li><a href="News/2026-11-27/503302-navy-seizes-drug-laden-vessel-in-international-waters-7-arre.md"><b>ජාත්‍යන්තර මුහුදේදී මත්ද්‍රව්‍ය රැගත් යාත්‍රාවක් නාවික හමුදා භාරයට - 07 දෙනෙකු අත්අඩංගුවට</b></a> <code>27 November 2026</code></li>
+    <li><a href="News/2026-11-27/503453-a-person-climbs-a-signal-tower-in-thirappane-in-protest.md"><b>තිරප්පනේදී පුද්ගලයෙක් සංඥා කුළුණකට නැග විරෝධයක</b></a> <code>27 November 2026</code></li>
+    <li><a href="News/2026-11-27/503447-extraordinary-gazette-notification-declaring-port-access-roa.md"><b>වරාය පිවිසුම් ගුවන් මාර්ගය අධිවේගී මාර්ගයක් බවට නම් කරමින් අතිවිශේෂ ගැසට් නිවේදනයක්</b></a> <code>27 November 2026</code></li>
+    <li><a href="News/2026-11-27/503446-former-lieutenant-colonel-shot-dead-in-rathgama.md"><b>රත්ගමදී වෙඩි තබා ඝාතනය කළේ හිටපු ලුතිනන් කර්නල්වරයෙක්</b></a> <code>27 November 2026</code></li>
+    <li><a href="News/2026-11-27/503438-gotabaya-testifies-in-lalith-kugan-case-further-hearing-post.md"><b>ලලිත් - කුගන් නඩුව ගෝඨාභය සාක්ෂි දෙයි - වැඩිදුර විභාගය පෙබරවාරි 12 තෙක් කල් යයි</b></a> <code>27 November 2026</code></li>
+    <li><a href="News/2026-11-27/503413-gmoa-supports-island-wide-trade-union-action-on-the-30th.md"><b>30 වැනිදා දීපව්‍යාප්ත වෘත්තීය සමිති ක්‍රියාමාර්ගයට GMOA සහාය</b></a> <code>27 November 2026</code></li>
   </ul>
 </details>
 
