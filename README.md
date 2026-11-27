@@ -17,12 +17,12 @@
 
 <br><br>
 
-<a href="News/2026-11-27/503300-government-should-publicly-apologize-for-wartime-attacks-un-.md">
-  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795719479_2333753_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+<a href="News/2026-11-27/503319-suspects-on-board-vessel-seized-with-drugs-in-southern-ocean.md">
+  <img src="https://cdn.hirunews.lk/Data/News_Images/202611/1795747150_4639462_hirunews.jpg" width="520" alt="Latest News" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
 </a>
 
-<h2>යුද සමයේ ප්‍රහාර ගැන රජය ප්‍රසිද්ධියේ සමාව ගත යුතුයි: එක්සත් ජාතීන්ගේ මානව හිමිකම් කාර්යාල වාර්තාවකින් නිර්දේශ</h2>
-<p><i>government should publicly apologize for wartime attacks un human rights office report recommends</i></p>
+<h2>දකුණු මුහුදේ දී මත්ද්‍රව්‍ය සමග ඇල්ලූ යාත්‍රාවේ සිටි සැකකරුවන් ඉරාන ජාතිකයින් බව හෙළි වෙයි</h2>
+<p><i>suspects on board vessel seized with drugs in southern ocean revealed to be iranians</i></p>
 
 <p>
   <img src="https://img.shields.io/static/v1?label=Date&message=2026-11-27&color=2563eb&style=flat-square" alt="Date" />
@@ -33,7 +33,7 @@
 <br>
 
 <p>
-  <a href="News/2026-11-27/503300-government-should-publicly-apologize-for-wartime-attacks-un-.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
+  <a href="News/2026-11-27/503319-suspects-on-board-vessel-seized-with-drugs-in-southern-ocean.md"><b>📖 සම්පූර්ණ පුවත කියවන්න (Read Full Story)</b></a> &nbsp;•&nbsp; 
   <a href="./News"><b>📂 සියලුම පුවත් (All News Archive)</b></a>
 </p>
 
@@ -43,11 +43,11 @@
   <summary><b>🔥 තවත් මෑතකාලීන පුවත් (Recent More News)</b></summary>
   <br>
   <ul>
-    <li><a href="News/2026-11-26/503295-foreign-minister-and-other-delegation-to-india-for-iora-summ.md"><b>අයෝරා සමුළුවට විදේශ ඇමති ඇතුළු පිරිස ඉන්දියාවට</b></a> <code>26 November 2026</code></li>
-    <li><a href="News/2026-11-26/503289-a-stock-of-drugs-worth-over-rs-181-9-million-was-seized-at-a.md"><b>පෑලියගොඩ රේගු ගුදමකදී රුපියල් මිලියන 181.9 කට අධික වටිනා මත්ද්‍රව්‍ය තොගයක් අත්අඩංගුවට</b></a> <code>26 November 2026</code></li>
-    <li><a href="News/2026-11-26/503287-we-talked-to-the-imf-and-removed-taxes-on-books-and-yogurt-w.md"><b>IMF එක්ක කතා කරලා පොත්පත්වල, යෝගට්වල බදු අයින් කළා.. අපි කරන්නේ කාටවත් කරන්න බැරි දේවල් - ජනපති</b></a> <code>26 November 2026</code></li>
-    <li><a href="News/2026-11-26/503284-fuel-is-being-transported-by-naval-vessel-to-the-new-fuel-st.md"><b>ඩෙල්ෆ්ට් දූපතේ නව ඉන්ධන හලට නාවික නෞකාවකින් ඉන්ධන ප්‍රවාහනය කෙරේ</b></a> <code>26 November 2026</code></li>
-    <li><a href="News/2026-11-26/503067-heavy-rains-exceeding-100-mm-at-some-places-in-the-western-s.md"><b>බස්නාහිර, සබරගමුව, මධ්‍යම, උතුරු මැද, වයඹ සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මි. මී. 100 ට වැඩි තද වැසි</b></a> <code>26 November 2026</code></li>
+    <li><a href="News/2026-11-27/503316-two-dutch-owned-guns-returned-to-sri-lanka-a-note-about-the-.md"><b>ලන්දේසීන් සතුව තිබූ මහා තුවක්කු දෙකක් යළි ශ්‍රී ලංකාවට‍ - එක් තුවක්කුවක රජුට සම්බන්ධ සටහනක්</b></a> <code>27 November 2026</code></li>
+    <li><a href="News/2026-11-27/503311-four-suspects-arrested-while-excavating-for-the-purpose-of-s.md"><b>පුරාවස්තු සෙවීමේ අරමුණින් කැණීම් කරමින් සිටි සැකකරුවන් සිව්දෙනෙකු අත්අඩංගුවට</b></a> <code>27 November 2026</code></li>
+    <li><a href="News/2026-11-27/503307-suspect-arrested-for-defrauding-rs-1-million-by-creating-a-f.md"><b>ව්‍යාජ බැංකු වෙබ් අඩවියක් සකස් කර රුපියල් ලක්ෂ 10ක් වංචා කළ සැකකරුවෙකු අත්අඩංගුවට</b></a> <code>27 November 2026</code></li>
+    <li><a href="News/2026-11-27/503304-seeing-the-storm-of-memories-one-year-ago-today.md"><b>මතක කුණාටුව දිට්වා - අදට වසරයි</b></a> <code>27 November 2026</code></li>
+    <li><a href="News/2026-11-27/503302-navy-seizes-drug-laden-vessel-in-international-waters-7-arre.md"><b>ජාත්‍යන්තර මුහුදේදී මත්ද්‍රව්‍ය රැගත් යාත්‍රාවක් නාවික හමුදා භාරයට - 07 දෙනෙකු අත්අඩංගුවට</b></a> <code>27 November 2026</code></li>
   </ul>
 </details>
 
